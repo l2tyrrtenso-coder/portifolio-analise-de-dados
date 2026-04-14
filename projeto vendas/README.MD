@@ -1,4 +1,4 @@
-# 📊 Projeto 01 —  Vendas
+ Projeto 01 —  Vendas
 
 
 
@@ -8,7 +8,7 @@ O projeto envolveu tratamento, modelagem de dados e construção de indicadores 
 
 ---
 
-## 🎯 Objetivo
+Objetivo
 
 Transformar uma planilha desestruturada em um modelo analítico confiável capaz de responder rapidamente:
 
